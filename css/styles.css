@@ -1,0 +1,9 @@
+.row {
+  /* TOP | LEFT & RIGHT | BOTTOM */
+  margin: 5rem;
+}
+
+.card {
+  /* Centrado horizontalmente */
+  margin: 2rem auto;
+}
